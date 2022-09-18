@@ -31,4 +31,6 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-FFFFFF?style=flat&logo=xcode&logoColor=18a8ed)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-FFFFFF?style=flat&logo=visual-studio-code&logoColor=24acf2)
 
-[![Rabin Pun's github stats.](https://github-readme-stats.vercel.app/api?username=rabinpun)]
+![Rabin Pun's github stats.](https://github-readme-stats.vercel.app/api?username=rabinpun)
+
+
